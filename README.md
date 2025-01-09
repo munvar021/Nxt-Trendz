@@ -8,16 +8,6 @@ Check out the live demo here: [Nxt Trendz](https://nxttrendzsmk.ccbp.tech/login)
 
 ---
 
-## 📹 Preview
-
-Here’s a preview of how the application works:
-
-<video style="max-width:100%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop autoplay controls muted>
-  <source src="https://assets.ccbp.in/frontend/content/react-js/nxt-trendz-cart-features-output.mp4" type="video/mp4">
-</video>
-
----
-
 ## 🔑 User Credentials
 
 Use the following credentials to log in to the app:
